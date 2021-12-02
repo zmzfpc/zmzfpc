@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=zmzfpc&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-<img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzfpc&layout=compact&langs_count=10&show_icons=true&locale=en"
-        alt="zmzfpc" />
- <br>
+
+ </p>
+
 <h3 align="left">Main languages and tools:</h3>
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank">
@@ -62,8 +62,9 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a> -->
 </p>
+        
 <h3 align="left">And some cool stuff I've used:</h3>
-<!-- <h4 align="left">Front End:</h4> -->
+
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -81,10 +82,6 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="40" height="40" />
     </a>
-    <a href="https://sass-lang.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" />
-    </a>
     <a href="https://gulpjs.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp"
             width="40" height="40" />
@@ -100,12 +97,9 @@ Here are some ideas to get you started:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" />
     </a>
-    <a href="https://bulma.io/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg"
-            alt="bulma" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
+   <a href="https://www.qt.io/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
+            height="40" />
     </a>
 </p>
 <!-- <h4 align="left">Back End and Database:</h4> -->
@@ -113,9 +107,6 @@ Here are some ideas to get you started:
     <a href="https://www.nginx.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
             width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
     <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
@@ -149,9 +140,6 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40"
             height="40" />
     </a>
-    <a href="https://www.rabbitmq.com" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
 </p>
 <p align="left">
     <a href="https://numpy.org/" target="_blank">
@@ -175,11 +163,8 @@ Here are some ideas to get you started:
     <a href="https://opencv.org/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
     </a>
-    <a href="https://www.qt.io/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40"
-            height="40" />
-    </a>
-    <a href="hexo.io/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40" />
-    </a>
+
 </p>
+<!-- <img align="right"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=zmzfpc&layout=compact&langs_count=10&show_icons=true&locale=en"
+        alt="zmzfpc" /> -->
