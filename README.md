@@ -1,11 +1,11 @@
 ### Hi 👋,I am Mingzhi Zhu
 
 
-- 🔭 I’m currently majoring in **Software Engineering @Tongji University**
+- 🔭 I’m currently majoring in **Computer Engineering @New York University**
 
-- 🌱 I’m currently focusing on **Object Detection**
+- 🌱 I’m currently focusing on **Fraud Detection**
 
-- 📫 How to reach me **zmzfpc@tongji.edu.cn**
+- 📫 How to reach me **mz3379@nyu.edu**
 <!--
 **zmzfpc/zmzfpc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
